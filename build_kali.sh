@@ -12,6 +12,7 @@ git clone https://github.com/NSAKEY/nsa-rules.git /opt/nsa-rules
 git clone https://github.com/S3cur3Th1sSh1t/PowerSharpPack.git /opt/PowerSharpPack
 git clone https://github.com/Flangvik/SharpCollection.git /opt/SharpCollection
 git clone https://github.com/andrew-d/static-binaries.git /opt/static-binaries
+git clone https://github.com/ShutdownRepo/pywhisker.git /opt/pywhisker
 git clone https://github.com/nettitude/PoshC2.git /opt/PoshC2
 git clone https://github.com/login-securite/DonPAPI.git /opt/DonAPI
 git clone https://github.com/dirkjanm/PKINITtools.git /opt/PKINITtools
