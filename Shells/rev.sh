@@ -8,7 +8,7 @@ fi
 ip="$1"
 port="$2"
 
-echo -e "\033[32m[+]\033[0m Created C# file"
+echo -e "\033[32m[+]\033[0m Created a C# file"
 
 charp_code=$(cat << 'EOT'
 using System;
