@@ -3,7 +3,7 @@
     vectors that rely on misconfigurations. See README.md for more information.
 
     Author: @harmj0y
-    License: BSD 3-Clause
+j    License: BSD 3-Clause
     Required Dependencies: None
     Optional Dependencies: None
 #>
